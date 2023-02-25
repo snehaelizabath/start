@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d4f2909-fdfe-4b4c-b618-eba1fdf6da62" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../tripproject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/.idea/tripproject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/credentails/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/credentails/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/credentails/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/credentails/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/credentails/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/credentails/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/credentails/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/credentails/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/media/pics/209px-St._Francis_Church_at_Velha_Goa_2TH7Pq5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/media/pics/Mall_Road_Manali.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/media/pics/Mall_Road_Manali_SJtgxHW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/media/pics/dubai.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/media/pics/dubai_w7B4eB6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/about.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/about_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/around.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/beach.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/boat.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/camera.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/contact.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/destination_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/destination_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/destination_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/destination_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/destination_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/destination_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/destination_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/destination_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/destination_9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/destinations.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/elements.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/footer_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/home_slider.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/intro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/island.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/latest_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/latest_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/latest_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/mountain.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/news.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/news_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/news_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/news_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/news_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/news_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/news_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/sign.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/suitcase.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/team_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/team_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/team_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/team_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/testimonials.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/travello.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/trekking.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/wallet.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/why.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/why_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/why_1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/why_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/why_2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/why_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/images/why_3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/js/about.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/js/contact.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/js/custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/js/destinations.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/js/elements.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/js/jquery-3.2.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/js/news.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/Isotope/isotope.pkgd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/OwlCarousel2-2.2.1/ajax-loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/OwlCarousel2-2.2.1/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/OwlCarousel2-2.2.1/owl.carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/OwlCarousel2-2.2.1/owl.carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/OwlCarousel2-2.2.1/owl.theme.default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/OwlCarousel2-2.2.1/owl.video.play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/easing/easing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/font-awesome-4.7.0/HELP-US-OUT.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/font-awesome-4.7.0/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/font-awesome-4.7.0/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/font-awesome-4.7.0/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/font-awesome-4.7.0/less/animated.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/font-awesome-4.7.0/less/bordered-pulled.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/font-awesome-4.7.0/less/core.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/font-awesome-4.7.0/less/fixed-width.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/font-awesome-4.7.0/less/font-awesome.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/font-awesome-4.7.0/less/icons.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/font-awesome-4.7.0/less/larger.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/font-awesome-4.7.0/less/list.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/font-awesome-4.7.0/less/mixins.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/font-awesome-4.7.0/less/path.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/font-awesome-4.7.0/less/rotated-flipped.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/font-awesome-4.7.0/less/screen-reader.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/font-awesome-4.7.0/less/stacked.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/font-awesome-4.7.0/less/variables.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/font-awesome-4.7.0/scss/_animated.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/font-awesome-4.7.0/scss/_bordered-pulled.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/font-awesome-4.7.0/scss/_core.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/font-awesome-4.7.0/scss/_fixed-width.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/font-awesome-4.7.0/scss/_icons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/font-awesome-4.7.0/scss/_larger.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/font-awesome-4.7.0/scss/_list.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/font-awesome-4.7.0/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/font-awesome-4.7.0/scss/_path.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/font-awesome-4.7.0/scss/_rotated-flipped.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/font-awesome-4.7.0/scss/_screen-reader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/font-awesome-4.7.0/scss/_stacked.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/font-awesome-4.7.0/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/font-awesome-4.7.0/scss/font-awesome.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/greensock/ScrollToPlugin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/greensock/TimelineMax.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/greensock/TweenMax.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/greensock/animation.gsap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/parallax-js-master/parallax.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/progressbar/progressbar.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/scrollTo/jquery.scrollTo.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/plugins/scrollmagic/ScrollMagic.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/styles/about.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/styles/about_responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/styles/bootstrap4/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/styles/bootstrap4/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/styles/bootstrap4/popper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/styles/contact.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/styles/contact_responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/styles/destinations.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/styles/destinations_responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/styles/elements.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/styles/elements_responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/styles/main_styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/styles/news.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/styles/news_responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/static/styles/responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/templates/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/tripapp/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/tripapp/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/tripapp/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/tripapp/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/tripapp/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/tripapp/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/tripapp/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/tripapp/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/tripapp/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/tripproject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/tripproject/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/tripproject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/tripproject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/tripproject/.idea/tripproject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/tripproject/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/tripproject/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/tripproject/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/tripproject/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/tripproject/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tripproject/tripproject/wsgi.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IIJP5pjZXyb4HO9hFe9lj8jPxs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/myprojects/inmakes/shoppingproject",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\myprojects\shopping_product_folder\shoppingproject\static\img" />
+      <recent name="D:\myprojects\shopping_product_folder\shoppingproject\static" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d4f2909-fdfe-4b4c-b618-eba1fdf6da62" name="Changes" comment="" />
+      <created>1669863137005</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669863137005</updated>
+    </task>
+    <servers />
+  </component>
+</project>

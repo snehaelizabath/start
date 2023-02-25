@@ -1,0 +1,76 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block metadescription %}
+{% if category %}
+    {{ category.description|truncatewords:155 }}
+{% else %}
+     welcome to E-books where u will find a variety of books......
+{% endif %}
+{% endblock %}
+{% block title %}
+{% if category %}
+{{ category.name }} - E-books
+{% else %}
+see our new books - E-books
+{% endif %}
+{% endblock %}
+{% block content %}
+{% if category %}
+<div>
+    <div class="row my_row_class">
+        <div class="mx-auto">
+        <p><a href="{% url 'shop:allProdCat' %}">Our Books Collections</a></p>
+    </div>
+    </div>
+</div>
+{% endif %}
+<div class="mx-auto">
+    {% if category %}
+<img class="my_image" src="{{ category.image.url }}" alt="{{ category.name }}" style="width:350px; height:350px;">
+</div>
+<br>
+<div>
+    <h1 class="text-center my_title">{{ category.name }}</h1>
+    <p class="text-justify">{{ category.description }}</p>
+</div>
+{% else %}
+<div>
+    <img class="my_image my_image_padding" src="{% static 'img/banner.png' %}" alt="logimage">
+
+</div>
+<br>
+<div>
+    <h1 class="text-center my_title">Our Books Collections</h1>
+    <p class="text-justify">Books are powerful resources in human life. Books complete our world. Books are the best companions of humans. They provide us with knowledge, they inspire us, teach us, motivate us, entertain us, tell us the history, and nurture us as well. Books are our world and this saying is not just a mere saying, it is a fact, because books are useful in many ways. During our childhood, the first gift that every parent gives to their children when they start speaking is a book. We all have a memory stuck in our mind that gives us flashbacks of our childhood when we were reading out the letters, learning numbers, trying to recite poems in Hindi, painting with colors, and making boats of paper. All these activities were part of our childhood and it started with just one book named, All in one. When we started our schooling the next gift that was given to us was also books. We then used and came to know of a variety of books that were used for different subjects and different languages. During the entire period of our school life, we see ourselves being flooded with books. Most children start developing their interest in reading, writing, and learning through books only. The library becomes the most visited place in the school. In a library, one can find books of different genres. Every student's life is fundamentally impacted by books because they open up a world of imagination, teach them about the outside world, help them become better readers, writers, and speakers, and sharpen their memory and intelligence. It is impossible to overstate the value of books in our lives because they not only help us expand our minds but also connect us to the outside world.</p>
+
+</div>
+{% endif %}
+<div class="container">
+    <div class="row mx_auto">
+        {%  for product in products.object_list %}
+          <div class="col-md-3">
+                          <div class="card text-center" style="min-width:18rem;">
+               <a href="{{ product.get_url }}"><img class="card-img-top my_image" src="{{product.image.url}}" alt="{{product.name}}" style="width:300px; height:300px;"></a>
+                <div class="card-body">
+                    <h4>{{ product.name }}</h4>
+                    <p>{{ product.price }}</p>
+
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    <div class="mx-auto">
+        {% if products.paginator.num_pages > 1 %}
+       <hr>
+        <div class="text-center">
+            {% for pg in products.paginator.page_range %}
+            <a href="?page={{pg}}" class="btn btn-light btn-sm {% if products.number == pg %} active {% endif %}">{{pg}}</a>
+        {% endfor %}
+        </div>
+         {% endif %}
+    </div>
+    <br>
+</div>
+{% endblock %}
+
